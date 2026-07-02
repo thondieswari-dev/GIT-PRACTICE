@@ -1,5 +1,3 @@
 # Git course
 this is complete git course
-
-# This is change from feature branch
-# this is new
+# This is change from bug branch
